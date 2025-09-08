@@ -1,8 +1,8 @@
-## 👨‍💻 Technologies Felipe-devindex
+## 👨‍💻 Felipe-devindex
 
 **`motivado por desafios`**
 
-Atualmente, estou concluindo o curso de Bacharelado em Ciência e Tecnologia pela Universidade Federal Rural do Semiárido (UFERSA), visando dar continuidade à minha formação no segundo ciclo, ingressando no curso de Engenharia da Computação.Sou uma pessoa motivada por desafios e apaixonada por tecnologia. Procuro sempre aprender de forma constante e aplicar os conhecimentos adquiridos na prática, buscando o aprimoramento contínuo do meu conhecimento. Tenho grande interesse na área de tecnologias e linguagens de programação como JavaScript, HTML, CSS e linguagem C. Meu objetivo ao ingressar em Engenharia da Computação é aprofundar meus conhecimentos em sistemas computacionais, arquitetura de computador, integração com hardware e outras áreas que unem lógica, inovação e desempenho técnico.
+ola, me chamo felipe henrique. Atualmente, estou concluindo o curso de Bacharelado em Ciência e Tecnologia pela Universidade Federal Rural do Semiárido (UFERSA), visando dar continuidade à minha formação no segundo ciclo, ingressando no curso de Engenharia da Computação.Sou uma pessoa motivada por desafios e apaixonada por tecnologia. Procuro sempre aprender de forma constante e aplicar os conhecimentos adquiridos na prática, buscando o aprimoramento contínuo do meu conhecimento. Tenho grande interesse na área de tecnologias e linguagens de programação como JavaScript, HTML, CSS e linguagem C. Meu objetivo ao ingressar em Engenharia da Computação é aprofundar meus conhecimentos em sistemas computacionais, arquitetura de computador, integração com hardware e outras áreas que unem lógica, inovação e desempenho técnico.
 
 ---
 
