@@ -2,7 +2,7 @@
 
 **`motivado por desafios`**
 
-Olá, me chamo felipe henrique. Atualmente, estou concluindo o curso de Bacharelado em Ciência e Tecnologia pela Universidade Federal Rural do Semiárido (UFERSA), visando dar continuidade à minha formação no segundo ciclo, ingressando no curso de Engenharia da Computação.Sou uma pessoa motivada por desafios e apaixonada por tecnologia. Procuro sempre aprender de forma constante e aplicar os conhecimentos adquiridos na prática, buscando o aprimoramento contínuo do meu conhecimento. 
+Olá, me chamo felipe henrique. 
 
 ---
 
